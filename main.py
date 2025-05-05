@@ -12,7 +12,7 @@ import time
 #简繁转换
 def traditional_to_simplified(text: str) -> str:
     # 初始化转换器，"t2s" 表示从繁体转为简体
-    converter = opencc.OpenCC('t2s')
+    converter = opencc.OpenCC('s2t')
     simplified_text = converter.convert(text)
     return simplified_text
 
