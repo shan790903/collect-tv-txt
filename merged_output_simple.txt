@@ -1,7 +1,7 @@
 更新时间,#genre#
-20250510 10:27:46,https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
+20250511 10:41:34,https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
 关于本源(iptv365.org),https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
-(百)每日一首,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
+(百)每日一首,https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
 (宝)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 (箱)AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 (箱)音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
@@ -633,21 +633,91 @@ Astr欢喜,https://pixman.mytvsuper.com.mp/Smart.php?id=Huahee
 
 
 💓AKTV🚀📶,#genre#
-Animax(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
+Channel 5 HD,http://aktv_stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv_stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv_stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+PopC,http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv_stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+tvN,http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+中天新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+千禧經典台(HK),http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+娛樂新聞台(HK),http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+寰宇新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+明珠剧集台(北美),http://aktv_stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+翡翠台 4K,http://aktv_stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+翡翠综合台(北美),http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+黃金翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+28AI智慧賽馬,http://aktv_stream.m16tv.cfd/stream/aktv1/28ai/AKTV.m3u8
+myTV SUPER 18台,http://aktv_stream.m16tv.cfd/stream/aktv1/mytvsuper18/AKTV.m3u8
+TVB Plus,http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
 AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-PopC,http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
-ROCK Action,http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
-tvN,http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
-明珠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
-無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
-美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
-翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
-鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
-TVBS新聞,http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
-緯來體育,http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
-中天新闻台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
+Love Nature HD,http://aktv_stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+无线新闻台(北美),http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+東森新聞,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+Animax(HK),http://aktv_stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+DW,http://aktv_stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+France 24,http://aktv_stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+KIX,http://aktv_stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+NHK World-Japan,http://aktv_stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+Nick Jr,http://aktv_stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv_stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+Thrill,http://aktv_stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+Xite Hits,http://aktv_stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
+Xite Rock,http://aktv_stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
+ZooMoo,http://aktv_stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+亞洲新聞台,http://aktv_stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv_stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+無線衛星新聞台,http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+Celestial Classic Movies,http://aktv_stream.m16tv.cfd/stream/astro_a1/celestialclassicmovies/AKTV.m3u8
+Celestial Movies,http://aktv_stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+CINEMAWORLD,http://aktv_stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+FIGHT SPORTS,http://aktv_stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+Mediacorp Entertainment Chinese,http://aktv_stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
+NBA TV,http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+Sukan,http://aktv_stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
+TV9,http://aktv_stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
+TVB Jade,http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+TVB Xing He,http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+Unifi Sport,http://aktv_stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+曼聯電視頻道,http://aktv_stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+朝鮮恩情台,http://aktv_stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
+ELTV生活英語台,http://aktv_stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
+三立新聞iNEWS,http://aktv_stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
+中視,http://aktv_stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
+中視新聞,http://aktv_stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+台視,http://aktv_stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+台視新聞,http://aktv_stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+華視,http://aktv_stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+龍華偶像台,http://aktv_stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+龍華日韓台,http://aktv_stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+龍華電影台,http://aktv_stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+beIN SPORTS XTRA,http://aktv_stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
+PAC12,http://aktv_stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
+Tennis Channel DE,http://aktv_stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
+緯來體育,http://aktv_stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+Asian Action,http://aktv_stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
+Astro Football,http://aktv_stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+Astro IQIYI,http://aktv_stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+Astro QJ,http://aktv_stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
+Astro 欢喜台,http://aktv_stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
+Red Bull Sports,http://aktv_stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+YES network,http://aktv_stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
+CBS SPORTS NETWORK,http://aktv_stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
+ESPN,http://aktv_stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
+ESPN NEWS,http://aktv_stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
+MLB_NETWORK,http://aktv_stream.m16tv.cfd/stream/useradd1/mlbnetwork/AKTV.m3u8
+Tennis Channel 2 US,http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
+Tennis Channel US,http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
+US MTV LIVE,http://aktv_stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
+viuTV,http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
 
 💓台湾台📶,#genre#
@@ -1879,262 +1949,263 @@ CCTV8k,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
 
 
 ☘️湖南频道,#genre#
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-15.m3u8
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-7.m3u8
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-gao-qing-1.m3u8
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-10.m3u8
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-6.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-13.m3u8
-湖南都市,http://110.53.218.182:9902/tsfile/live/0127_1.m3u8
-湖南都市,http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-4.m3u8
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-gao-qing-3.m3u8
-湖南都市,http://php.jdshipin.com:8880/iptv.php
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-14.m3u8
-湖南都市,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/湖南.php?id=hnds
-湖南都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7510&tk=23a9aca1f79f
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-12.ctv
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-6.ctv
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-9.m3u8
-湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
 湖南都市,http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-5.m3u8
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-11.m3u8
-湖南都市,http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
-湖南都市,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-7.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-3.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-8.m3u8
-湖南都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=cb5299&tk=6949f8ce7202
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-1.m3u8
 湖南都市,http://www.peanutbar.cn:8099/tsfile/live/1002_1.m3u8?key=txiptv
-湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-1.m3u8
-湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-4.m3u8
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-gao-qing-3.m3u8
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-1.m3u8
+湖南都市,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/湖南.php?id=hnds
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-gao-qing-1.m3u8
+湖南都市,http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-9.m3u8
+湖南都市,http://php.jdshipin.com:8880/iptv.php
+湖南都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7510&tk=23a9aca1f79f
+湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-6.m3u8
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-11.m3u8
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-4.m3u8
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-15.m3u8
+湖南都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=cb5299&tk=6949f8ce7202
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-12.ctv
+湖南都市,http://110.53.218.182:9902/tsfile/live/0127_1.m3u8
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-5.m3u8
+湖南都市,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-10.m3u8
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-14.m3u8
+湖南都市,http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-5.m3u8
-湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-6.ctv
-湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-2.m3u8
+湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-1.m3u8
 湖南教育,http://www.peanutbar.cn:8099/tsfile/live/1008_1.m3u8?key=txiptv
-湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-1.m3u8
-湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-7.ctv
-湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-2.m3u8
-湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-7.m3u8
-湖南公共,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8
-湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-gao-qing-1.m3u8
-湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-5.ctv
-湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-4.m3u8
-湖南公共,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-2.ctv
-湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-6.m3u8
+湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-2.m3u8
+湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-4.m3u8
+湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-6.ctv
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-3.m3u8
-湖南公共,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-7.ctv
+湖南公共,http://119.39.9.8:9901/tsfile/live/1009_1.m3u8
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-5.m3u8
+湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-2.ctv
+湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-2.m3u8
+湖南公共,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-5.ctv
+湖南公共,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8
+湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-6.m3u8
+湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-1.m3u8
+湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-4.m3u8
+湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-7.m3u8
+湖南公共,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-gao-qing-1.m3u8
 
 
 ☘️湖北频道,#genre#
-湖北生活,http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
-湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-3.ctv
-湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-4.ctv
-湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-12.ctv
-湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-5.m3u8
-湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-11.m3u8
-湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-12.m3u8
-湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-2.m3u8
-湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-8.ctv
-湖北生活,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
 湖北生活,http://www.hiliu.myds.me:8088/rtp/239.69.1.205:10872
+湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-8.ctv
+湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-11.m3u8
+湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-12.ctv
+湖北生活,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+湖北生活,http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-4.ctv
+湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-3.ctv
+湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-2.m3u8
 湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-1.m3u8
-湖北教育,https://stream1.freetv.fun/hu-bei-jiao-yu-1.ctv
-湖北教育,https://stream1.freetv.fun/hu-bei-jiao-yu-8.m3u8
-湖北教育,https://stream1.freetv.fun/hu-bei-jiao-yu-4.ctv
+湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-12.m3u8
+湖北生活,https://stream1.freetv.fun/hu-bei-sheng-huo-5.m3u8
 湖北教育,https://stream1.freetv.fun/hu-bei-jiao-yu-13.m3u8
+湖北教育,https://stream1.freetv.fun/hu-bei-jiao-yu-4.ctv
 湖北教育,https://stream1.freetv.fun/hu-bei-jiao-yu-9.m3u8
-湖北教育,https://stream1.freetv.fun/hu-bei-jiao-yu-10.ctv
-湖北教育,http://www.hiliu.myds.me:8088/rtp/239.69.1.206:10878
+湖北教育,http://113.56.95.69:53765/tsfile/live/0132_1.m3u8
+湖北教育,https://stream1.freetv.fun/hu-bei-jiao-yu-1.ctv
 湖北教育,https://stream1.freetv.fun/hu-bei-jiao-yu-2.m3u8
 湖北教育,https://stream1.freetv.fun/hu-bei-jiao-yu-14.m3u8
-湖北教育,http://113.56.95.69:53765/tsfile/live/0132_1.m3u8
-湖北公共,http://www.hiliu.myds.me:8088/rtp/239.69.1.40:9880
-湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-11.m3u8
-湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-4.m3u8
-湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-1.m3u8
-湖北公共,http://113.56.95.69:53765/tsfile/live/1002_1.m3u8
-湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-12.m3u8
-湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-xin-wen-4.m3u8
-湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-xin-wen-2.m3u8
-湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-13.m3u8
-湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-9.m3u8
-湖北公共,http://119.36.148.115:59901/tsfile/live/1007_1.m3u8
-湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-10.m3u8
+湖北教育,https://stream1.freetv.fun/hu-bei-jiao-yu-8.m3u8
+湖北教育,http://www.hiliu.myds.me:8088/rtp/239.69.1.206:10878
+湖北教育,https://stream1.freetv.fun/hu-bei-jiao-yu-10.ctv
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-xin-wen-3.ctv
-湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-7.m3u8
+湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-9.m3u8
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-5.ctv
+湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-13.m3u8
+湖北公共,http://119.36.148.115:59901/tsfile/live/1007_1.m3u8
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-2.m3u8
-湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-3.m3u8
+湖北公共,http://www.hiliu.myds.me:8088/rtp/239.69.1.40:9880
+湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-xin-wen-2.m3u8
+湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-11.m3u8
+湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-xin-wen-4.m3u8
+湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-10.m3u8
+湖北公共,http://113.56.95.69:53765/tsfile/live/1002_1.m3u8
+湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-1.m3u8
 湖北公共,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
+湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-4.m3u8
+湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-12.m3u8
+湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-3.m3u8
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-5.m3u8
+湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-7.m3u8
 
 
 ☘️广东频道,#genre#
 汕尾文化生活,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2032&tk=a0c4f6cfaba3
 汕尾文化生活,http://58.254.14.61:808/hls/131/index.m3u8
-茂名公共,http://113.109.250.108:9999/udp/239.77.0.207:5146
 茂名公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7418&tk=a0c4f6cfaba3
+茂名公共,http://113.109.250.108:9999/udp/239.77.0.207:5146
+茂名公共,http://120.77.205.62:8087/rtp/239.77.0.207:5146
 茂名公共,http://120.77.205.62:8087/rtp/239.77.0.205:5146
 茂名公共,http://125.89.163.44:8888/udp/239.77.0.207:5146
-茂名公共,http://120.77.205.62:8087/rtp/239.77.0.207:5146
-河源公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5263&tk=a0c4f6cfaba3
-河源公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ebb488&tk=6949f8ce7202
-河源公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=cc8bf4&tk=6949f8ce7202
-河源公共,http://1b6467f415.iok.la:9931/tsfile/live/1079_1.m3u8
-河源公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=09bcdd&tk=6949f8ce7202
-河源公共,http://125.89.163.44:8888/udp/239.253.43.214:5146
-河源公共,http://113.109.250.108:9999/udp/239.253.43.214:5146
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源公共,http://120.234.5.28:6000/udp/239.21.0.49:3536
+河源公共,http://125.89.163.44:8888/udp/239.253.43.214:5146
+河源公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5263&tk=a0c4f6cfaba3
+河源公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=09bcdd&tk=6949f8ce7202
+河源公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=cc8bf4&tk=6949f8ce7202
 河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-3.ctv
-佛山公共,http://125.89.163.44:8888/udp/239.253.43.53:5146
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-10.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-1.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-12.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-19.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-26.ctv
-佛山公共,http://113.109.250.108:9999/udp/239.253.43.53:5146
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-7.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-9.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-27.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-21.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-16.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-25.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-2.ctv
-佛山公共,http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-6.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-8.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-4.ctv
+河源公共,http://113.109.250.108:9999/udp/239.253.43.214:5146
+河源公共,http://1b6467f415.iok.la:9931/tsfile/live/1079_1.m3u8
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+河源公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ebb488&tk=6949f8ce7202
 佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-17.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-15.ctv
 佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-11.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-22.ctv
-佛山公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4358&tk=a0c4f6cfaba3
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-13.ctv
-佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-5.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-16.ctv
 佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-18.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-3.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-22.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-5.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-27.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-4.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-6.ctv
+佛山公共,http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-26.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-12.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-21.ctv
+佛山公共,http://125.89.163.44:8888/udp/239.253.43.53:5146
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-19.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-13.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-10.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-25.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-9.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-7.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-15.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-1.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-2.ctv
+佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-8.ctv
+佛山公共,http://113.109.250.108:9999/udp/239.253.43.53:5146
+佛山公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4358&tk=a0c4f6cfaba3
 
 
 ☘️浙江频道,#genre#
-浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-2.ctv
-浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-8.ctv
-浙江生活,http://api3.52tb.xyz/info?id=437&token=20230226bgyszp
-浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-7.ctv
-浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-6.m3u8
-浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-4.ctv
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
-浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
-浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-7.m3u8
-浙江生活,http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37
-浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-11.ctv
-浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-1.ctv
-浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
-浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n
-浙江生活,http://ls.qingting.fm/live/1099.m3u8
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
+浙江生活,http://api3.52tb.xyz/info?id=437&token=20230226bgyszp
+浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-2.ctv
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-4.ctv
+浙江生活,http://ls.qingting.fm/live/1099.m3u8
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-8.ctv
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-7.ctv
+浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-7.m3u8
+浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-11.ctv
+浙江生活,http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-6.m3u8
+浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-1.ctv
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-浙江教育,http://120.55.49.231:3095/rtp/233.50.201.134:5140
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
-浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+浙江教育,http://120.55.49.231:3095/rtp/233.50.201.134:5140
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
+浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 杭州明珠,http://47.117.76.76:7001/hahahaha/ys/zb.php?id=hzmz
-杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-2.ctv
 杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-4.m3u8
+杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-2.ctv
 杭州明珠,http://www.flyskyman.cn:4022/rtp/233.50.201.174:5140
-杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-2.m3u8
-杭州明珠,http://www.jeremyoto.com:82/rtp/233.50.201.174:5140
 杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-1.ctv
 杭州明珠,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
-杭州生活,http://120.55.49.231:3095/rtp/233.50.201.175:5140
+杭州明珠,http://www.jeremyoto.com:82/rtp/233.50.201.174:5140
+杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-2.m3u8
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-5.ctv
-杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-4.ctv
-杭州生活,http://47.117.76.76:7001/hahahaha/ys/zb.php?id=hzsh
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-3.ctv
-杭州生活,http://www.flyskyman.cn:4022/rtp/233.50.201.175:5140
+杭州生活,http://47.117.76.76:7001/hahahaha/ys/zb.php?id=hzsh
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-2.ctv
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-1.ctv
+杭州生活,http://120.55.49.231:3095/rtp/233.50.201.175:5140
+杭州生活,http://www.flyskyman.cn:4022/rtp/233.50.201.175:5140
 杭州生活,http://www.jeremyoto.com:82/rtp/233.50.201.175:5140
-杭州青少,http://120.55.49.231:3095/rtp/233.50.201.177:5140
+杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-4.ctv
 杭州青少,http://www.flyskyman.cn:4022/rtp/233.50.201.177:5140
 杭州青少,http://www.jeremyoto.com:82/rtp/233.50.201.177:5140
-宁波TV1,http://www.flyskyman.cn:4022/rtp/233.50.201.168:5140
+杭州青少,http://120.55.49.231:3095/rtp/233.50.201.177:5140
 宁波TV1,http://www.jeremyoto.com:82/rtp/233.50.201.168:5140
-宁波TV2,http://www.jeremyoto.com:82/rtp/233.50.201.178:5140
+宁波TV1,http://www.flyskyman.cn:4022/rtp/233.50.201.168:5140
 宁波TV2,http://www.flyskyman.cn:4022/rtp/233.50.201.178:5140
-宁波TV3,http://www.flyskyman.cn:4022/rtp/233.50.201.179:5140
+宁波TV2,http://www.jeremyoto.com:82/rtp/233.50.201.178:5140
 宁波TV3,http://www.jeremyoto.com:82/rtp/233.50.201.179:5140
+宁波TV3,http://www.flyskyman.cn:4022/rtp/233.50.201.179:5140
 宁波TV4,http://www.flyskyman.cn:4022/rtp/233.50.201.180:5140
 宁波TV4,http://www.jeremyoto.com:82/rtp/233.50.201.180:5140
-浙江教科,http://api3.52tb.xyz/info?id=432&amp;amp;token=20230226bgyszp
+浙江教科,http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa
 浙江教科,http://api3.52tb.xyz/info?id=432&amp;token=20230226bgyszp
 浙江教科,http://api3.52tb.xyz/info?id=432&token=20230226bgyszp
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-浙江教科,http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-湖州公共,https://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
+浙江教科,http://api3.52tb.xyz/info?id=432&amp;amp;token=20230226bgyszp
+湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&amp;fbl=
+湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-9.m3u8
+湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&amp;amp;amp;fbl=
+湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&amp;amp;fbl=
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-3.m3u8
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-10.m3u8
+湖州公共,https://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-1.m3u8
-湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&amp;amp;amp;fbl=
-湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-9.m3u8
-湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&amp;fbl=
-湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&amp;amp;fbl=
 舟山公共,http://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=2027429366-f4515e585a0347f780a01c73ae293945-0-b3699e931cf04290680745e989c63d86
-浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-7.ctv
-浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-10.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-9.m3u8
-浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-6.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-8.m3u8
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-6.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-5.m3u8
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江教科影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=55d3b0&tk=6949f8ce7202
-浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-7.ctv
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-10.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
-浙江青田,http://play-sh13.quklive.com/live/1692755062081192.m3u8?auth_key=2028414252-b15176e05a684b589d12314dfabf6225-0-d175afe86fbea31e2eb167a6dd06cd4f
+浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教科影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=55d3b0&tk=6949f8ce7202
 浙江青田,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1a9de7&tk=6949f8ce7202
+浙江青田,http://play-sh13.quklive.com/live/1692755062081192.m3u8?auth_key=2028414252-b15176e05a684b589d12314dfabf6225-0-d175afe86fbea31e2eb167a6dd06cd4f
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
-浙江遂昌,http://play-sh13.quklive.com/live/1708426592499070.m3u8?auth_key=2028414342-e92bda8423ad478c987a8b7ae82abe0e-0-c616f7fabb9675e1ed1d84d9edae7e07
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+浙江遂昌,http://play-sh13.quklive.com/live/1708426592499070.m3u8?auth_key=2028414342-e92bda8423ad478c987a8b7ae82abe0e-0-c616f7fabb9675e1ed1d84d9edae7e07
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 鄞州二套,http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8?zzhed
 鄞州一套,http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8?zzhed
 湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
-新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 新昌生活,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e2e5de&tk=6949f8ce7202
+新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-3.m3u8
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed\r\n
+上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-6.m3u8
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?
 上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-4.m3u8
-上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-5.m3u8
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-6.m3u8
 上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-2.m3u8
+上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-5.m3u8
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed\r\n
 上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-1.m3u8
-上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-3.m3u8
-上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-2.ctv
-上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-1.m3u8
 上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-3.ctv
-上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-3.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
-上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed
 上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-4.ctv
-上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed
+上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-1.m3u8
+上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-3.m3u8
+上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-2.ctv
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed
 上虞文化,https://stream1.freetv.fun/shang-yu-wen-hua-1.m3u8
 上虞文化,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed?
 姚江文化,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?
-平湖民生,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed?
 平湖民生,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+平湖民生,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed?
 
 
 ☘️山东频道,#genre#
@@ -2144,91 +2215,88 @@ CCTV8k,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
 
 
 上海频道,#genre#
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-1.m3u8
-上海都市,http://www.zhch682022.cn:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-5.m3u8
-上海都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3713&tk=bd38c03a3ce1
-上海都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6990&tk=23a9aca1f79f
-上海都市,http://yc.myds.me:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746307365&key=635dd803224a560866c81f72aae510a0
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746307365&amp;key=635dd803224a560866c81f72aae510a0
-上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.m3u8
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-3.m3u8
-上海都市,http://api3.52tb.xyz/info?id=372&amp;amp;token=20221127jxwhhemby
 上海都市,http://feiyang.ak47s.top:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,http://t8622699o8.vicp.fun:60024/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
-上海都市,http://mvfn.zhch1968.com:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,http://api3.52tb.xyz/info?id=372&token=20221127jxwhhemby
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746292937&amp;key=3725d08baa89daf1e05599a00bdac978
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-2.m3u8
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-7.m3u8
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-11.m3u8
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-4.m3u8
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-8.m3u8
-上海都市,http://api3.52tb.xyz/info?id=372&amp;token=20221127jxwhhemby
+上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.m3u8
 上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746292937&key=3725d08baa89daf1e05599a00bdac978
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-7.m3u8
-上海都市,https://stream1.freetv.fun/shang-hai-du-shi-1.m3u8
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-11.m3u8
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746307365&key=635dd803224a560866c81f72aae510a0
+上海都市,http://yc.myds.me:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+上海都市,http://api3.52tb.xyz/info?id=372&amp;amp;token=20221127jxwhhemby
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-2.m3u8
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-8.m3u8
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-7.m3u8
+上海都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6990&tk=23a9aca1f79f
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
 上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-6.m3u8
+上海都市,http://www.zhch682022.cn:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+上海都市,http://mvfn.zhch1968.com:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+上海都市,http://api3.52tb.xyz/info?id=372&amp;token=20221127jxwhhemby
+上海都市,https://stream1.freetv.fun/shang-hai-du-shi-1.m3u8
+上海都市,http://t8622699o8.vicp.fun:60024/itv/5000000010000018926.m3u8?cdn=bestzb
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-5.m3u8
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-3.m3u8
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-1.m3u8
+上海都市,http://api3.52tb.xyz/info?id=372&token=20221127jxwhhemby
+上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-4.m3u8
+上海都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3713&tk=bd38c03a3ce1
 
 
 体育频道,#genre#
 睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8c1c22&tk=6949f8ce7202
-睛彩羽毛球,http://drive.mxmy.net:8888/udp/239.3.1.127:8001
+睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4844&tk=97475bb89d45
 睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7332&tk=e640d0a1bf70
 睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0009&tk=b53028476470
-睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&amp;id=8c1c22&amp;tk=6949f8ce7202
-睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4844&tk=97475bb89d45
+睛彩羽毛球,http://drive.mxmy.net:8888/udp/239.3.1.127:8001
 睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1257&tk=f6cc1e0a0e1a
 睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2409&tk=e503191f8e20
-魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=aef1ffa947e5328dd4ec2bb318b58b674fe32113222c6c9eab78bcdc2a9f31cf142a1d60536ea5a5ee039d3753e6bd98bef238d0ba7e3af9153e765e8b77e2a8c28451355b4a426d11c5c304f8
-魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=0a72668399c6f96d928c0bf0adbe330bbae95b55cfc10f2da9e830e2e06051b89a0e1db847eaa61f6b897e3efcb05ecc6160c2ce3c8073fb2d90c8ed191845e1ca16f6bcd3aaa13f6538d2074d
-魅力足球,http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111
-魅力足球,http://146.56.165.66:7788/TVOD/5000000011000031207/bestzb/index.m3u8
-魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-4.ctv
-魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=08a67f&tk=6949f8ce7202
+魅力足球,http://goo.bkpcp.top/mg/mlzq
+魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-5.ctv
 魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-5.m3u8
 魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-3.m3u8
-魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-5.ctv
-魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0934&tk=e640d0a1bf70
-魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8
-魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8363&tk=e503191f8e20
-魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-2.m3u8
-魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3624&tk=23a9aca1f79f
-魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-3.m3u8
 魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7365&tk=f6cc1e0a0e1a
-魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=f4f71100ed3cd756f336e1f3b6d522c1338ee1ffd14316eea89e461d4e31e29395a265a9f1ec26b947fb0e7dc16296db47ae3bfea73caaee6901d17bfede63775878c0ab44c872939ba5b53baf
+魅力足球,http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111
+魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8
+魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq
 魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
-魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8920&tk=a0c4f6cfaba3
-魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5943&tk=b53028476470
-魅力足球,https://tv.fanmingming.com/api/v6?id=mlyy
-魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1085&tk=a0c4f6cfaba3
-魅力足球,http://120.76.248.139/live/bfgd/4200000633.m3u8
+魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=f4f71100ed3cd756f336e1f3b6d522c1338ee1ffd14316eea89e461d4e31e29395a265a9f1ec26b947fb0e7dc16296db47ae3bfea73caaee6901d17bfede63775878c0ab44c872939ba5b53baf
+魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=08a67f&tk=6949f8ce7202
 魅力足球,http://36.105.100.208:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2186&tk=e640d0a1bf70
-魅力足球,http://goo.bkpcp.top/mg/mlzq
-魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq
+魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=aef1ffa947e5328dd4ec2bb318b58b674fe32113222c6c9eab78bcdc2a9f31cf142a1d60536ea5a5ee039d3753e6bd98bef238d0ba7e3af9153e765e8b77e2a8c28451355b4a426d11c5c304f8
+魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-4.ctv
+魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-3.m3u8
+魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3624&tk=23a9aca1f79f
+魅力足球,https://tv.fanmingming.com/api/v6?id=mlyy
+魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=0a72668399c6f96d928c0bf0adbe330bbae95b55cfc10f2da9e830e2e06051b89a0e1db847eaa61f6b897e3efcb05ecc6160c2ce3c8073fb2d90c8ed191845e1ca16f6bcd3aaa13f6538d2074d
+魅力足球,http://120.76.248.139/live/bfgd/4200000633.m3u8
+魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0934&tk=e640d0a1bf70
+魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8363&tk=e503191f8e20
+魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5943&tk=b53028476470
+魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-2.m3u8
+魅力足球,http://146.56.165.66:7788/TVOD/5000000011000031207/bestzb/index.m3u8
 魅力足球,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
+魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1085&tk=a0c4f6cfaba3
+魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8920&tk=a0c4f6cfaba3
 J_SPORTS_1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 J_SPORTS_2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 J_SPORTS_3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 J_SPORTS_4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 DAZN1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2562&tk=e640d0a1bf70
-DAZN2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5145&tk=e640d0a1bf70
 DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv
+DAZN2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5145&tk=e640d0a1bf70
 nba tv,https://stream1.freetv.fun/nba-tv-7.m3u8
-nba tv,https://stream1.freetv.fun/nba-tv-1.m3u8
 nba tv,https://stream1.freetv.fun/nba-tv-5.m3u8
-skysports,https://stream1.freetv.fun/skysports-7.ctv
-skysports,https://stream1.freetv.fun/skysports-2.ctv
-skysports,https://stream1.freetv.fun/skysports-12.ctv
+nba tv,https://stream1.freetv.fun/nba-tv-1.m3u8
 skysports,https://stream1.freetv.fun/skysports-4.ctv
-skysports,https://stream1.freetv.fun/skysports-3.ctv
 skysports,https://stream1.freetv.fun/skysports-11.ctv
-skysports,https://stream1.freetv.fun/skysports-1.ctv
-skysports,https://stream1.freetv.fun/skysports-17.ctv
+skysports,https://stream1.freetv.fun/skysports-12.ctv
 skysports,https://stream1.freetv.fun/skysports-15.ctv
+skysports,https://stream1.freetv.fun/skysports-3.ctv
+skysports,https://stream1.freetv.fun/skysports-17.ctv
 skysports,https://stream1.freetv.fun/skysports-14.ctv
+skysports,https://stream1.freetv.fun/skysports-2.ctv
+skysports,https://stream1.freetv.fun/skysports-1.ctv
+skysports,https://stream1.freetv.fun/skysports-7.ctv
 
 
